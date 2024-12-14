@@ -6,7 +6,7 @@ I am interested in learning DS,ML,AI in the field of Financial Quantitative Trad
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently freelancing in Upwork, Peopleperhour and Freelancing.com and currently working for clients.
+- 🔭 I’m currently working as a freelancer in Upwork, Peopleperhour and Freelancing.com, currently working for clients, and also ready for new projects.
 - 🌱 I’m currently learning Python and other technologies in trading.
 - 👯 I’m looking to collaborate with Python Developer to build bots and toold for finance.
 - 🤔 I’m looking for help with Open source Contribution.
